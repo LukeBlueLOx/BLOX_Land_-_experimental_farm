@@ -11,7 +11,7 @@ BLUE LIQUID OXYGEN – “BLOX”: Technical Social Organization For Creating Us
 <hr class="hr1">
 Project: "BLOX Land - experimental farm"
 <br>
-<a href="[https://lukebluelox.github.io/PORTFOLIO](https://blox-land.herokuapp.com/#BL-ExF)"target="_blank"class="button1">"PORTFOLIO"</a>
+[https://lukebluelox.github.io/PORTFOLIO]("PORTFOLIO")
 <hr class="h2">
 <img src="https://lukebluelox.github.io/BLOX%20PROFILE%20B.G.%20-%20UBUNTU.png" alt="" width="100%">
 <hr class="h2">
